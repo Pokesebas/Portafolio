@@ -1,0 +1,220 @@
+body{
+    width: 209vh;
+    height: 100vh;
+    background: #4ab6ff;
+    background-size: cover;
+    background-position: center;
+  }
+  
+footer{
+    background: linear-gradient(270deg, #00eeff, #00aeff, #004bd7, #000000);
+    position: relative;
+    top: 700px;
+    font-size: 20px;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+}
+  
+.un{
+    width: 100px;
+    border-radius: 50px;
+    border: 5px solid aqua;
+}
+  
+  .im{
+      position: relative;
+      left: 120px;
+      bottom: 200PX;
+      font-size: 100px;
+      color: rgb(255, 255, 255);
+
+  }
+  
+  .pasatiempo{
+      position: relative;
+      left: 1049px;
+      bottom: 439PX;
+      font-size: 50px;
+      height: 50px;
+      max-width: 72vh;
+      background: #65bcf7;
+      color: white;
+      padding-bottom: 60px;
+      text-align: center;
+    border: 5px solid ;
+    border-color: black black black transparent;
+  }
+  
+  .pi{
+      border: 5px solid ;
+      position: relative;
+      max-width: 130vh;
+      border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0);
+      padding: 20px;
+      height: 170px;
+      background: #65bcf7;
+  }
+  
+  .bi{
+      position: relative;
+      left: 1090px;
+      bottom: 80px;
+      font-size: 40px;
+      border: 5px solid black;
+      text-decoration: none;
+      padding: 5px;
+      color: black;
+      background-color: white;
+      border-radius: 10px;
+  }
+  
+  .bi:hover{
+      background: linear-gradient(270deg, #00fbff, #00cac3, #007072, #000000);
+      border-radius: 10px;
+      transition: 5s;
+      color: white;
+  }
+  
+  
+  .whatsapp1{
+    position: relative;
+    left: 1220px;
+    top: 30px;
+
+}
+.facebook1{
+    position: relative;
+    left: 1220px;
+    top: 30px;
+}
+.instagram1{
+    position: relative;
+    left: 1220px;
+    top: 30px;
+} 
+
+
+
+  .desarmar{
+    border-radius: 50px;
+    width: 200px;
+    position: relative;
+    right: 100px;
+  }
+
+  .futbol{
+    border-radius: 50px;
+    width: 200px;
+    position: relative;
+    right: 300px;
+    top: 200px;
+  }
+
+  .programar{
+    border-radius: 50px;
+    width: 200px;
+    position: relative;
+    left: 80px;
+  }
+
+  .molestar{
+    border-radius: 50px;
+    width: 200px;
+    position: relative;
+    right: 120px;
+    top: 300px;
+
+  }
+
+  .jugar{
+    border-radius: 50px;
+    width: 200px;
+    position: relative;
+    left: 200px;
+  }
+
+  .dibujar{
+    border-radius: 50px;
+    width: 200px;
+    position: relative;
+    top: 240px;
+
+  }
+
+  .hobies{
+    text-align: center;
+}
+
+alt{
+    color: solid blue;
+}
+
+textarea{
+   border: 5px polid #000000;
+   border-radius: 10px;
+    width: 100px;
+   text-align: center;
+   transform: rela;
+}
+
+.desarmar1{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(152, 233, 255);
+    position: relative;
+    left: 380px;
+    bottom: 100px;
+}
+.futbol1{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(152, 233, 255);
+    position: relative;
+    left: 270px;
+    top: 100px;
+}
+
+.programar1{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(152, 233, 255);
+    position: relative;
+    left: 750px;
+    bottom: 100px;
+}
+
+.molestar1{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(152, 233, 255);
+    position: relative;
+    left: 640px;
+    top: 160px;
+}
+
+.jugar1{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(152, 233, 255);
+    position: relative;
+    left: 1060px;
+    bottom: 100px;
+}
+
+.dibujar1{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(152, 233, 255);
+    position: relative;
+    left: 950px;
+    top: 100px;
+}
+
+.lapiz{
+    position: relative;
+    right: 50px;
+}
+
+img{
+    box-shadow: 10px 10px 60px white;
+}
